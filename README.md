@@ -1,2 +1,2 @@
 # chatBot_using_Springboot__GoogleAPI
-The ChatBot_using_SpringBoot_And_GoogleAPI project is a dynamic chatbot built with Spring Boot and integrated with Google API services. It efficiently handles user queries by leveraging Google's search capabilities to deliver accurate and contextually relevant responses.
+Talkmate - Chatbot Application Developed Talkmate, a chatbot with secure JWT token-based login. It generates intelligent responses based on user prompts using Google API. Built with Java Spring Boot (REST API) and MySQL for backend. Frontend uses Angular, HTML, CSS, and TypeScript for validation and interaction.
